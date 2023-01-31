@@ -99,15 +99,15 @@ body{
 }
 
 li{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 
 .conteiner-simbol{
     width: 30px;
     height: 30px;
-    border: 1px solid green;
-    display: inline-block;
+    border: 2px solid green;
+    
     border-radius: 50%; 
 }
 
@@ -121,8 +121,8 @@ li{
 .conteiner-simbol-red{
     width: 30px;
     height: 30px;
-    border: 1px solid red;
-    display: inline-block;
+    border: 2px solid red;
+    
     border-radius: 50%; 
 }
 
