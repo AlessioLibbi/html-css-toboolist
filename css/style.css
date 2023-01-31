@@ -89,7 +89,6 @@ body{
 }
 
 .inside{
-    font-size: 1.5rem;
     margin-top: 20px;
     margin-bottom: 20px ;
     list-style: none;
@@ -97,24 +96,41 @@ body{
 
 .triangle{
     font-size: 20px;
-    
 }
 
+li{
+    font-size: 1.5rem;
+}
+
+
 .conteiner-simbol{
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     border: 1px solid green;
     display: inline-block;
-    border-radius: 50%;
-    margin-top: 8px;
+    border-radius: 50%; 
 }
 
 .check{
     color: green;
     text-align: center;
     margin-left: 5px;
-    font-size: 0.8rem;
     display:inline-block;
+}
+
+.conteiner-simbol-red{
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    display: inline-block;
+    border-radius: 50%; 
+}
+
+.cross{
+    color: red;
+    text-align: center;
+    margin-left: 5px;
+    display: inline-block;
 }
 
 .stiker{
@@ -130,4 +146,20 @@ body{
 
 .violet{
     background-color: blueviolet;
+}
+
+.green{
+    background-color: rgb(100 192 169);
+}
+
+.orange{
+    background-color: rgb(242 158 51);
+}
+
+.pink{
+    background-color: rgb(216 99 161)   ;
+}
+
+.lime{
+    background-color: rgb(176 201 38);
 }
