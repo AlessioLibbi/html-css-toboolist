@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* start-header-setting */
+.header{
+    height: 100px;
+    line-height: 100px;
+    background-color: white;
+    
+}
+
+.logo-img{
+    vertical-align: middle;
+    margin-left: 1rem;
+
+}
+
+.header-title{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 2rem;
+    
+}
